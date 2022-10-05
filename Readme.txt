@@ -6,3 +6,5 @@ R codes of paper 'A Global Relative Similarity for Inferring Interactions of Mul
 If you rewrite it in other Programming languages (e.g. Python) or have any improvements to the method, please share with me. 
 
 Thanks for reading.
+
+Full text of the paper is on https://rdcu.be/cWUNL
